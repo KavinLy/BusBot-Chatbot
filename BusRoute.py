@@ -2,10 +2,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
 line13Url = "https://www.networkwestmidlands.com/plan-your-journey/timetables#/route/cen_41013_C_H_y11_14-14"
-line8Url = "..."
 selectedLineUrl = ""
-
-#scan which_line thing that you did the other time
 
 which_line = input("Which bus line would you like to know? ")
 
