@@ -5,7 +5,7 @@ University group project
 
 Transport Chatbot Project
 
-The code for the chatbot can be found in the file BusBot.py
+The code for the final product of the chatbot can be found in the file BusBot.py
 
 Currently, the bot will give flat answers and only responds to specific inputs. It uses an API from https://www.transportapi.com and returns the data it gets from the API into a response to the user.
 
